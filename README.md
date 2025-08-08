@@ -1,12 +1,34 @@
-# React + Vite
+# LUMO AI Chatbot 🤖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+LUMO AI is a modern, sleek chatbot built using **Gemini API** with support for **light & dark mode** and a glassmorphism-inspired UI.  
+Ask anything, get intelligent answers instantly.
 
-Currently, two official plugins are available:
+## ✨ Features
+- 🌗 Light & Dark theme toggle
+- 🪟 Glassmorphism-inspired UI
+- 💬 Smooth chat experience
+- ⚡ Powered by **Gemini API**
+- 📜 Chat history management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- **React.js**
+- **Tailwind CSS**
+- **Lucide Icons**
+- **Gemini API**
 
-## Expanding the ESLint configuration
+## 📦 Installation
+```bash
+# Clone this repository
+git clone https://github.com/your-username/lumo-ai.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Navigate into the project
+cd lumo-ai
+
+# Install dependencies
+npm install
+
+# Create a .env file and add your Gemini API key
+VITE_GEMINI_API_KEY=your_api_key_here
+
+# Start the development server
+npm run dev
