@@ -32,3 +32,8 @@ VITE_GEMINI_API_KEY=your_api_key_here
 
 # Start the development server
 npm run dev
+
+
+<p align="center">
+  <img src="./assets/Nova.svg" alt="LUMO AI Screenshot" width="600"/>
+</p>
