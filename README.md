@@ -1,6 +1,6 @@
 # LUMO AI Chatbot 🤖
 
-LUMO AI is a modern, sleek chatbot built using **Gemini API** with support for **light & dark mode** and a glassmorphism-inspired UI.  
+LUMO  is a modern, sleek AI built using **Gemini API** with support for **light & dark mode** and a glassmorphism-inspired UI.  
 Ask anything, get intelligent answers instantly.
 
 ## ✨ Features
