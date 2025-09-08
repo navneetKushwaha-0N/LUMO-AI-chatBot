@@ -3,7 +3,7 @@
 LUMO  is a modern, sleek AI built using **Gemini API** with support for **light & dark mode** and a glassmorphism-inspired UI.  
 Ask anything, get intelligent answers instantly.
 
-## ✨ Features
+## ✨ Features 
 - 🌗 Light & Dark theme toggle
 - 🪟 Glassmorphism-inspired UI
 - 💬 Smooth chat experience
