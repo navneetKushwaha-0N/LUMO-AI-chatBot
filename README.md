@@ -16,6 +16,7 @@ Ask anything, get intelligent answers instantly.
 - **Lucide Icons**
 - **Gemini API**
 
+
 ## 📦 Installation
 ```bash
 # Clone this repository
